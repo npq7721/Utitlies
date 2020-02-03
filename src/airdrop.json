@@ -1,0 +1,15 @@
+{
+	"address_file" : "addresses.txt",
+	"connection" : {
+		"host" : "192.168.1.201",
+		"port" : "23023",
+		"network" : "mainnet",
+		"timeout" : 30000,
+		"username" : "",
+		"password" : ""
+   },
+   "asset_name" : "DICKPICS",
+   "amount_per_address" : 1,
+   "send_wait_count" : 100,
+	 "confirmations" : 10
+}
